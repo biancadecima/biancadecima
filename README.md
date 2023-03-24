@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bianca Décima</h1>
+<h1 align="center">Hi 😙, I'm Bianca Décima</h1>
 <h3 align="center">Programming student at UTN in constant learning with a good level of English (Advanced C1). Currently, I am getting into Back-End development carrying out projects using C and C#. I also have knowledge of SQL management, data manipulation with .NET and API development.</h3>
 
 <div align="center">
