@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bianca Décima</h1>
-<h3 align="center">Programming student from Argentina</h3>
-
-- 🌱 I’m currently learning **Back-End development :)**
+<h3 align="center">Programming student at UTN in constant learning with a good level of English (Advanced C1). Currently, I am getting into Back-End development carrying out projects using C and C#. I also have knowledge of SQL management, data manipulation with .NET and API development.</h3>
 
 <div align="center">
 <img src="https://media4.giphy.com/media/KpACNEh8jXK2Q/giphy.gif?cid=ecf05e479iz93amdc41gnjhi1t53w8wzx1cgrey30ry6p4j2&rid=giphy.gif&ct=g" style="width:100%;heigth:auto;" alt="biancadecima">
