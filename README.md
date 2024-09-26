@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **bianbdecima@gmail.com**
 
-- 🌐 Data manipulation with .NET and API development.
-
 <h3>🤩Connect with me!</h3>
 <p>
 <a href="https://www.linkedin.com/in/biancadecima/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/biancadecima/" height="30" width="40" /></a>
