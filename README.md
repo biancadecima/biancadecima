@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me! :
 
-- 🌱 Programming student at UTN. 
+- 🌱 Computer engineering student at UBA. 
 
 - 📫 How to reach me **bianbdecima@gmail.com**
 
@@ -15,6 +15,4 @@
 <a href="https://www.linkedin.com/in/biancadecima/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/biancadecima/" height="30" width="40" /></a>
 </p>
 
-<h3>🔨Languages and Tools:</h3>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 
